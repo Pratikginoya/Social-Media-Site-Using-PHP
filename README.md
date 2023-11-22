@@ -3,15 +3,15 @@
 After completion of Ajax Learning I have made this project using PHP with Ajax
 
 About the project,
--> User register and login the social media site
--> User can add his Post
--> User can view his or his friends post
--> User can send friend request (Add Friend) or Cancel the sent friend request
--> User can accept the others Friend request
--> User can view his Friends
--> User can Add the comment on his or his friends post
--> User can edit his comment or delete his comment from the post
--> User can send the message and received the message of his Friends (Chat with the Friends)
+- -> User register and login the social media site
+- -> User can add his Post
+- -> User can view his or his friends post
+- -> User can send friend request (Add Friend) or Cancel the sent friend request
+- -> User can accept the others Friend request
+- -> User can view his Friends
+- -> User can Add the comment on his or his friends post
+- -> User can edit his comment or delete his comment from the post
+- -> User can send the message and received the message of his Friends (Chat with the Friends)
 
 Maximum features are created using Ajax...
 
